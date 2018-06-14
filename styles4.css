@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+body{
+    background: #efefef;
+}
+
+#btn{
+    background-color: aquamarine;
+    color: white;
+    border-radius: 5px;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+   
+}
+
+.passbox{
+    background-color: #F8F8F8;
+    padding: 10px;
+    height: 130px;
+    width: 200px;
+    border-radius: 5px;
+  
+}
+
+td{
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    background-color: paleturquoise;
+}
+
+
